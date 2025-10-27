@@ -8,7 +8,7 @@ export default defineConfig(({ mode }) => {
   return {
     // 💡 GitHub Pages 경로 설정을 위해 'base' 옵션을 추가했습니다.
     // ⚠️ '<저장소이름>' 부분을 실제 GitHub 저장소 이름으로 변경해야 합니다. (예: '/audio-trimmer/')
-    base: '/nest-ryu/', 
+    base: '/audio-trimmer/', 
     
     server: {
       port: 3000,
