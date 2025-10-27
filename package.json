@@ -2,6 +2,7 @@
   "name": "mp3-시작-부분-편집기",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://nest-ryu.github.io/audio-trimmer",
   "type": "module",
   "scripts": {
     "dev": "vite",
